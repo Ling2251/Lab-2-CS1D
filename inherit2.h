@@ -5,9 +5,11 @@
  
 using namespace std; 
  
+ /*! A personType class*/  
 class personType 
 { 
 public: 
+
     void print() const; 
     //Function to output the first name and last name 
     //in the form firstName lastName 
